@@ -1,0 +1,8 @@
+  // ... (other configs)
+  compilerOptions: {
+    // ...
+    "paths": {
+      // ...
+      "@/*": ["./*"] // Add relative path
+    },
+  }
